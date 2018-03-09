@@ -15,7 +15,7 @@ markdown_extensions:
 
 ### extra.css
 
-The extra.css file adds a little bit of padding to the code display box, and is completely optional.
+The _extra.css_ file adds a little bit of padding to the codehilite display box, and is completely optional.
 
 To use it, add it to your __css__ directory, and in the __mkdocs.yml__ "extra_css" section:
 
@@ -23,8 +23,6 @@ To use it, add it to your __css__ directory, and in the __mkdocs.yml__ "extra_cs
 extra_css:
   - css/extra.css
   - css/<theme-file-name>.css
-markdown_extensions:
-  - codehilite
 ```
 
 ### Source
