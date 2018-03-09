@@ -1,4 +1,4 @@
-# MkDocs Codehilite Stylesheets
+# MkDocs Codehilite Themes
 
 A collection of Pygment css themes compatible with the __codehilite__ extension used by [MkDocs](http://www.mkdocs.org/).
 
